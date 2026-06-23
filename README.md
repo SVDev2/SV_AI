@@ -1,5 +1,11 @@
 # **SV AI**
 
+---
+⚠️ WARNING
+
+This project uses Portuguese (Brazil) in the source code.
+---
+
 ## 🚀 Sobre o projeto
 
 O **SV AI** é uma ia desenvolvida em Python.

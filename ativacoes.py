@@ -8,3 +8,7 @@ def degrau(resultado):
 
 def sigmoid(resultado):
     return 1 / (1 + math.exp(-resultado))
+    
+def sigmoid_derivada(x):
+    s = sigmoid(x)
+    return s * (1-s)
